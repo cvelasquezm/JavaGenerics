@@ -1,6 +1,6 @@
-package Example1;
+package singlegenerics;
 
-public class SimpleGenericClass<T> {
+public class ObjectManager<T> {
 
     private T value;
 

@@ -1,4 +1,4 @@
-package Example1;
+package singlegenerics;
 
 public class Person {
 
