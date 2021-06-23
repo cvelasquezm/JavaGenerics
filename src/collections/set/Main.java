@@ -6,7 +6,16 @@ public class Main {
                 SetTest setTest = new SetTest();
                 //setTest.testHashSetWithIntNumbers();
                 //setTest.testHashSetWithStrings();
+                //setTest.testHashSetWithComplexObjects();
+
+                //setTest.testTreeSetWithIntegers();
                 //setTest.testTreeSetWithStrings();
-                setTest.testTreeSetWithComplexObjects();
+                //setTest.testTreeSetWithComplexObjects();
+
+                //setTest.testLinkedHashSetWithIntNumbers();
+                //setTest.testLinkedHashSetWithStrings();
+                //setTest.testLinkedHashSetWithComplexObjects();
+
+                setTest.testEnumSet();
         }
 }

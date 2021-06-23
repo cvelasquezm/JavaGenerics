@@ -6,7 +6,9 @@ public class Main {
                 ListTest listTest = new ListTest();
 
                 //listTest.unmodifiableList();
-                //listTest.testArrayList();
-                listTest.testLinkedListVsArrayList();
+                listTest.testArrayListFeatures();
+                listTest.testLinkedListFeatures();
+                listTest.testVectorFeatures();
+                //listTest.testLinkedListVsArrayList();
         }
 }
